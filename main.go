@@ -8,4 +8,5 @@ import (
 func main() {
 	var b int = 1970
 	fmt.Println(GoPractice.Generation(b))
+	GoPractice.GenerationSecond()
 }
