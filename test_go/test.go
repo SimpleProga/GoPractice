@@ -1,1 +1,7 @@
-package test_go
+package main
+
+import "Go/GoPractice"
+
+func main() {
+	GoPractice.ArrayIndex()
+}
