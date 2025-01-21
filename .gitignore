@@ -8,4 +8,6 @@ test_go/test.go
 test_go/*
 !test/test_file1.go
 
+test_go/
+
 .idea/
