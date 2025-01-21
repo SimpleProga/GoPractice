@@ -7,3 +7,5 @@ test_go/test.go
 # Ignore everything in the test directory except specific files
 test_go/*
 !test/test_file1.go
+
+.idea/
